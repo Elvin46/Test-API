@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\bin\Debug\net5.0\QuarterApp_Data.deps.json
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\bin\Debug\net5.0\QuarterApp_Data.dll
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\bin\Debug\net5.0\ref\QuarterApp_Data.dll
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\bin\Debug\net5.0\QuarterApp_Data.pdb
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.dll
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\ref\QuarterApp_Data.dll
+C:\Users\HP\Desktop\Test-API\QuarterApp_Data\obj\Debug\net5.0\QuarterApp_Data.pdb
